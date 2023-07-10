@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on various big data platforms in Alibaba.
 - 🌱 I’m currently learning Rust, user experience.
-- 💬 Ask me about Frontend development, React, TypeScript, Redux, Big data visualization, BI products.
+- 💬 Ask me about Software development, Node.js, React, TypeScript, Redux, Python, Golang, Big data visualization, BI products.
 - 📫 How to reach me: wechat(song78423)
 
 [![Camsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=camsong&theme=vue-light)](https://github.com/anuraghazra/github-readme-stats)
